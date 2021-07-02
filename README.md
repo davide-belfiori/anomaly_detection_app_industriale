@@ -1,6 +1,6 @@
 # **Anomaly Detection: Esempio di Applicazione Industriale**
 
-Nel campo dell'automazione industriale, le tecniche di Machine Learning possono rappresentare un meccanismo efficace per l'implementazione di sistemi di controllo automatico, in particolare quando tale controllo prevede un processo di raccolta ed elaborazione di immagini. \par
+Nel campo dell'automazione industriale, le tecniche di Machine Learning possono rappresentare un meccanismo efficace per l'implementazione di sistemi di controllo automatico, in particolare quando tale controllo prevede un processo di raccolta ed elaborazione di immagini.
 
 In questo contesto tuttavia, è necessario tenere conto che, molto spesso, l'insieme di dati a disposizione per la costruzione di un modello di Machine Learning, risulta sbilanciato rispetto agli esempi di oggetti difettosi, in favore di quelli che, al contrario, sono considerati "buoni" o "normali".
 
